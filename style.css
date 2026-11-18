@@ -191,4 +191,19 @@ footer {
     .hero h1 {
         font-size: 40px;
     }
+
+/* Footer */
+
+footer {
+    background-color: #172554;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+footer p {
+    margin: 8px;
+    font-size: 14px;
+}
+
 }
