@@ -188,6 +188,7 @@ section p {
         padding: 20px;
         text-align: center;
     }
+}
 
     nav ul.active {
         display: flex;
@@ -208,4 +209,19 @@ section p {
     section:not(.hero) {
         padding: 40px 8%;
     }
+
+/* Footer */
+
+footer {
+    background-color: #172554;
+    color: white;
+    text-align: center;
+    padding: 20px;
 }
+
+footer p {
+    margin: 8px;
+    font-size: 14px;
+}
+
+
